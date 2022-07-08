@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+G:\all projects\T1\ConsoleApplication1\ConsoleApplication1.cpp(49,8): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\all projects\T1\ConsoleApplication1\ConsoleApplication1.cpp(64,3): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\all projects\T1\ConsoleApplication1\ConsoleApplication1.cpp(74,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\all projects\T1\ConsoleApplication1\ConsoleApplication1.cpp(84,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\all projects\T1\ConsoleApplication1\ConsoleApplication1.cpp(114,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\all projects\T1\ConsoleApplication1\ConsoleApplication1.cpp(147,8): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\all projects\T1\ConsoleApplication1\ConsoleApplication1.cpp(170,3): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\all projects\T1\ConsoleApplication1\ConsoleApplication1.cpp(374,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
